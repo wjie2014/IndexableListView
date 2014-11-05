@@ -1,3 +1,6 @@
+IndexableListView ListView右侧会显示item首字母快捷索引，点击可快速滑动到某个item
+APP示例：微信通讯录、小米联系人
+
 Copyright 2011 woozzu
 
 Licensed under the Apache License, Version 2.0 (the "License");
